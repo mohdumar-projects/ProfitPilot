@@ -108,13 +108,13 @@ jupyter notebook
 
 <h4>Code Explanation</h4>
 
-1. Data Loading & Exploration
+* Data Loading & Exploration
 
   * The dataset is loaded using Pandas, and initial exploratory analysis is performed to understand the structure, missing values, and key statistics.
 
   * Visualizations include histograms and boxplots to analyze distributions and detect outliers.
 
-2. Data Cleaning
+* Data Cleaning
 
   * Handles missing values and converts date/time columns appropriately.
 
@@ -122,13 +122,13 @@ jupyter notebook
 
   * Duplicate records are removed to ensure data integrity.
 
-3. Feature Engineering
+* Feature Engineering
 
   * Creates interaction and ratio-based features such as Revenue_Load_Factor and Operating_Cost_Ratio.
 
   * Extracts cyclical features from Scheduled Departure Time to capture seasonal trends.
 
-4. Model Training & Evaluation
+* Model Training & Evaluation
 
   * Splits the dataset into training and testing sets.
 
@@ -138,7 +138,7 @@ jupyter notebook
 
   * Uses GridSearchCV for hyperparameter tuning.
 
-5. Model Explainability
+* Model Explainability
 
   * SHAP values are used to interpret feature importance and model decision-making.
 
