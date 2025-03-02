@@ -26,6 +26,12 @@ In the airline industry, maximizing profitability is a complex challenge influen
 
   * Operating costs
 
+<h4>The dataset can be downloaded from this link:</h4>
+
+
+ https://docs.google.com/spreadsheets/d/1eALZhnY5bEJ4uCi9BCjN2fpx8jRIzwWo/edit?gid=794923645#gid=794923645 
+
+
 <h4>Model Requirements</h4>
 
 The model must be robust enough to handle real-world uncertainties, including:
